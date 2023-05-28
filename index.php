@@ -23,20 +23,14 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link rel="canonical" href="http://belgrade-tour-guide.com" />
 
-    <!-- =======================================================
-    * Template Name: Amoeba - v4.10.0
-    * Template URL: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/
-    * Author: BootstrapMade.com
-    * License: https://bootstrapmade.com/license/
-    ======================================================== -->
 
-    <!--    SEO-->
+
     <!--    SEO OPTIMIZATION-->
     <title>Belgrade Tour Guide</title>
     <meta name="keywords"
           content="Belgrade tour guide, Serbia tour guide, Novi Sad, Belgrade , Zlatibor "/>
 
-    <meta name="description" content=""/>
+    <meta name="description" content="Discover Belgrade and Serbia with us! We are a team of young and educated Serbian guides. Your happiness is our first priority, so we will do our best to make your trip memorable!"/>
 
     <meta property="og:title" content="Belgrade Tour Guide"/>
 
@@ -44,7 +38,7 @@
           content="Belgrade tour guide, Serbia tour guide, Novi Sad, Belgrade , Zlatibor"/>
 
     <meta property="og:description"
-          content=""/>
+          content="Discover Belgrade and Serbia with us! We are a team of young and educated Serbian guides. Your happiness is our first priority, so we will do our best to make your trip memorable!"/>
 
     <meta property="og:url" content="http://belgrade-tour-guide.com/"/>
     <meta property="og:image" content="assets/img/logo4.png"/>
@@ -113,7 +107,7 @@
                     <i class="bi bi-check2-circle"></i> Discover Serbia with us ! <br>
 
                         We are a team of young and educated Serbian guides, who deeply love Serbia. Our mission is to spread happiness,
-                        positive energy and knowledge. Your satisfaction is our first priority, so we will do our best to make your trip memorable!<br>
+                        positive energy and knowledge. Your happiness is our first priority, so we will do our best to make your trip memorable!<br>
 
                     <i class="bi bi-check2-circle"></i> If you are a solo traveler, couple, family or a group, you are all welcome!<br>
 
