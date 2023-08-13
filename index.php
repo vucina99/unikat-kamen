@@ -327,7 +327,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/1.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika1">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/1.jpg" class="img-fluid" alt="slika1">
 
@@ -337,7 +337,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/2.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika2">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/2.jpg" class="img-fluid" alt="slika2">
 
@@ -347,7 +347,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/3.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika3">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/3.jpg" class="img-fluid" alt="slika3">
 
@@ -357,7 +357,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/4.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika4">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/4.jpg" class="img-fluid" alt="slika4">
 
@@ -367,7 +367,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/5.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika5">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/5.jpg" class="img-fluid" alt="slika5">
 
@@ -378,7 +378,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/6.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika6">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/6.jpg" class="img-fluid" alt="slika6">
 
@@ -388,7 +388,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/7.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika7">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/7.jpg" class="img-fluid" alt="slika7">
 
@@ -398,7 +398,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/8.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika8">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/8.jpg" class="img-fluid" alt="slika8">
 
@@ -408,7 +408,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/9.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika9">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/9.jpg" class="img-fluid" alt="slika9">
 
@@ -418,7 +418,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/10.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika10">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/10.jpg" class="img-fluid" alt="slika10">
 
@@ -428,7 +428,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/11.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika11">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/11.jpg" class="img-fluid" alt="slika11">
 
@@ -439,7 +439,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/12.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika12">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/12.jpg" class="img-fluid" alt="slika12">
 
@@ -450,7 +450,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/13.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika13">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/13.jpg" class="img-fluid" alt="slika13">
 
@@ -460,7 +460,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/14.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika14">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/14.jpg" class="img-fluid" alt="slika14">
 
@@ -470,7 +470,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/15.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="slika15">
+                       class="portfolio-lightbox" title="">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/15.jpg" class="img-fluid" alt="slika15">
 
