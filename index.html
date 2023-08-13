@@ -108,13 +108,13 @@
 
                     Dok se izdvajamo svojim zanatskim veštinama, takođe smo osnaženi timskim duhom i posvećenošću ! <br>
 
-                    Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo polažemo. Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za izvanrednu izgradnju. Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama koje svakodnevno hodate.<br>
+                    Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo polažemo. Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za izvanrednu izgradnju. Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama kojima svakodnevno hodate.<br>
                     <br>
                     <i class="bi bi-check2-circle"></i> Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo polažemo.<br>
 
                     <i class="bi bi-check2-circle"></i>  Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za izvanrednu izgradnju.<br>
 
-                    <i class="bi bi-check2-circle"></i> Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama koje svakodnevno hodate.
+                    <i class="bi bi-check2-circle"></i> Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama kojima svakodnevno hodate.
                     <br>
                     <br>
                     <h3>  KONTAKTIRAJTE NAS !</h3>
