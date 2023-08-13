@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+{<!DOCTYPE html>
 <html lang="sr">
 
 <head>
@@ -21,8 +20,7 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-    <link rel="canonical" href="https://unikat-kamen.com" />
-
+    <link rel="canonical" href="https://unikat-kamen.com"/>
 
 
     <!--    SEO OPTIMIZATION-->
@@ -30,7 +28,8 @@
     <meta name="keywords"
           content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
 
-    <meta name="description" content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
+    <meta name="description"
+          content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
 
     <meta property="og:title" content="Unikat Kamen | Gradimo zajedno "/>
 
@@ -46,6 +45,7 @@
     <meta name="language" content="Serbian">
     <meta name="copyright" content="Copyright © Unikat Kamen. Sva prava zadržana">
     <meta property="og:locale" content="sr"/>
+
 </head>
 <body>
 
@@ -60,11 +60,11 @@
         <nav id="navbar" class="navbar">
             <ul>
 
-                <li><a class="nav-link scrollto active" id="pocetna" href="#hero">Početna</a></li>
-                <li><a class="nav-link scrollto"  id="onama"  href="#about">O nama</a></li>
-                <li><a class="nav-link scrollto"  id="reference"  href="#faq">Reference</a></li>
-                <li><a class="nav-link scrollto"  id="galerija"  href="#portfolio">Galerija</a></li>
-                <li><a class="nav-link scrollto"  id="kontakt"  href="#contact">Kontakt</a></li>
+                <li><a class="nav-link scrollto active pocetna" href="#hero">Početna</a></li>
+                <li><a class="nav-link scrollto onama" href="#about">O nama</a></li>
+                <li><a class="nav-link scrollto reference" href="#faq">Reference</a></li>
+                <li><a class="nav-link scrollto galerija" href="#portfolio">Galerija</a></li>
+                <li><a class="nav-link scrollto kontakt" href="#contact">Kontakt</a></li>
 
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
@@ -102,22 +102,30 @@
                 </div>
 
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1" id="text-onama">
-                    <h3> DOBRODOŠLI NA STRANICU UNIKAT KAMENA! <br> <br>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</h3>
+                    <h3> DOBRODOŠLI NA STRANICU UNIKAT KAMENA! <br> <br>Sa više od 20 godina neprekidnog iskustva,
+                        ponosno se posvećujemo umetnosti ugradnje granitne kocke , behaton ploča kao i turske kaldrme
+                        ivičnjaka.</h3>
                     <br>
 
 
                     Dok se izdvajamo svojim zanatskim veštinama, takođe smo osnaženi timskim duhom i posvećenošću ! <br>
 
-                    Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo polažemo. Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za izvanrednu izgradnju. Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama kojima svakodnevno hodate.<br>
+                    Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo
+                    polažemo. Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za
+                    izvanrednu izgradnju. Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat
+                    na ulicama kojima svakodnevno hodate.<br>
                     <br>
-                    <i class="bi bi-check2-circle"></i> Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo polažemo.<br>
+                    <i class="bi bi-check2-circle"></i> Naša priča počinje sa svakim kamenom koji pažljivo postavljamo,
+                    svakom pločom koju pažljivo polažemo.<br>
 
-                    <i class="bi bi-check2-circle"></i>  Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za izvanrednu izgradnju.<br>
+                    <i class="bi bi-check2-circle"></i> Sa iskustvom koje se proteže preko dve decenije, postavili smo
+                    svoje ime kao sinonim za izvanrednu izgradnju.<br>
 
-                    <i class="bi bi-check2-circle"></i> Tokom godina, stvorili smo umetnička dela širom Beograda, ostavljajući pečat na ulicama kojima svakodnevno hodate.
+                    <i class="bi bi-check2-circle"></i> Tokom godina, stvorili smo umetnička dela širom Beograda,
+                    ostavljajući pečat na ulicama kojima svakodnevno hodate.
                     <br>
                     <br>
-                    <h3>  KONTAKTIRAJTE NAS !</h3>
+                    <h3> KONTAKTIRAJTE NAS !</h3>
 
                 </div>
             </div>
@@ -132,7 +140,8 @@
 
             <div class="text-center">
                 <h3 class="citat">Miriam Beard</h3>
-                <p class="text-citat"> „Putovanje kroz život je kao hodanje po kaldrmi - svaki kamen ima svoju priču, svaka neravnina nosi svoj izazov, ali svaki korak je deo neprocenjivog iskustva. ”</p>
+                <p class="text-citat"> „Putovanje kroz život je kao hodanje po kaldrmi - svaki kamen ima svoju priču,
+                    svaka neravnina nosi svoj izazov, ali svaki korak je deo neprocenjivog iskustva. ”</p>
             </div>
 
         </div>
@@ -145,7 +154,9 @@
 
             <div class="section-title">
                 <h2 class="reference">Reference</h2>
-                <p class="text-center uvod-reference">Naša referentna lista je svedočanstvo o našoj posvećenosti kvalitetu, preciznosti i iskustvu koje smo stekli tokom dugogodišnjeg rada , ovo su samo neke od lokacija.</p>
+                <p class="text-center uvod-reference">Naša referentna lista je svedočanstvo o našoj posvećenosti
+                    kvalitetu, preciznosti i iskustvu koje smo stekli tokom dugogodišnjeg rada , ovo su samo neke od
+                    lokacija.</p>
             </div>
             <br><br>
 
@@ -188,7 +199,7 @@
                     <div class="member w-100">
 
                         <div class="member-info text-center">
-                            <h4>Skadarlija  </h4>
+                            <h4>Skadarlija </h4>
                             <span>Beograd </span>
                         </div>
                     </div>
@@ -266,7 +277,6 @@
                 </div>
 
 
-
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div class="member w-100">
 
@@ -277,7 +287,6 @@
                         </div>
                     </div>
                 </div>
-
 
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
@@ -317,7 +326,7 @@
             <div class="row portfolio-container">
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="assets/img/gallery/1.jpg"  data-gallery="portfolioGallery"
+                    <a href="assets/img/gallery/1.jpg" data-gallery="portfolioGallery"
                        class="portfolio-lightbox" title="slika1">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/1.jpg" class="img-fluid" alt="slika1">
@@ -487,9 +496,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-about">
                         <h3 id="kamen-unikat" class="unikat-kamen">Unikat Kamen</h3>
-                        <p>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</p>
-                        <p>Korisni linkovi : <a href="https://www.putevi-srbije.rs/index.php/sr/" title="putevi srbije">Putevi Srbije</a> , <a
-                                    href="https://geosrbija.rs/" title="geo srbija">Geo Srbija</a> , <a href="https://katastar.rgz.gov.rs/" title="katastar">Katastar </a></p>
+                        <p>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne
+                            kocke , behaton ploča kao i turske kaldrme ivičnjaka.</p>
+                        <p>Korisni linkovi : <a href="https://www.putevi-srbije.rs/index.php/sr/" title="putevi srbije">Putevi
+                                Srbije</a> , <a
+                                    href="https://geosrbija.rs/" title="geo srbija">Geo Srbija</a> , <a
+                                    href="https://katastar.rgz.gov.rs/" title="katastar">Katastar </a></p>
 
                         <div class="social-links">
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -555,7 +567,7 @@
                         <!--                            <div class="sent-message">Your message has been sent. Thank you!</div>-->
                         <!--                        </div>--> <br>
                         <div class="text-center">
-                            <button type="submit" id="sendMessage">Pošalji  <i
+                            <button type="submit" id="sendMessage">Pošalji <i
                                         class="bi bi-send"></i>
                             </button>
                         </div>
@@ -610,4 +622,4 @@
 
 </body>
 
-</html>
+</html>}
