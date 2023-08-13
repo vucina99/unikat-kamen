@@ -30,7 +30,7 @@
     <meta name="keywords"
           content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
 
-    <meta name="description" content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti pravljenja kaldrme, behaton ploča i turskih ivičnjaka"/>
+    <meta name="description" content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
 
     <meta property="og:title" content="Unikat Kamen | Gradimo zajedno "/>
 
@@ -38,7 +38,7 @@
           content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
 
     <meta property="og:description"
-          content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti pravljenja kaldrme, behaton ploča i turskih ivičnjaka"/>
+          content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
 
     <meta property="og:url" content="https://unikat-kamen.com"/>
     <meta property="og:image" content="assets/img/logo_full_size.png"/>
@@ -54,7 +54,7 @@
     <div class="container  d-flex align-items-center">
 
         <div class="logo h-100 me-auto">
-            <img src="assets/img/logo_full_size.png" class="h-100 w-100" alt="logo">
+            <img src="assets/img/logo_full_size.png" class="h-75 w-75" alt="logo">
         </div>
 
         <nav id="navbar" class="navbar">
@@ -102,7 +102,7 @@
                 </div>
 
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
-                    <h3> DOBRODOŠLI NA STRANICU UNIKAT KAMENA! <br> <br>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti pravljenja kaldrme, behaton ploča i turskih ivičnjaka.</h3>
+                    <h3> DOBRODOŠLI NA STRANICU UNIKAT KAMENA! <br> <br>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</h3>
                     <br>
 
 
@@ -487,7 +487,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-about">
                         <h3>Unikat Kamen</h3>
-                        <p>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti pravljenja kaldrme, behaton ploča i turskih ivičnjaka.</p>
+                        <p>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</p>
                         <div class="social-links">
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
