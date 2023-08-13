@@ -10,7 +10,7 @@ $("#contact").ready(function (){
         let html = '';
         let array
         if (!validateFullName(fullName)) {
-            html += `<li><?= $lang['naslov-poruke'] ?> test </li>`
+            html += `<li>Unesite ispravno ime i prezime </li>`
             $("#name").addClass("border-danger")
         }else{
             $("#name").removeClass("border-danger")
@@ -38,6 +38,7 @@ $("#contact").ready(function (){
 
         }
         if(html !== ''){
+            $(".alertDanger").show()
            document.getElementById("errorMessage").innerHTML = html;
            // $(".alertDanger").show()
             $(".alertSuccess").hide()
@@ -50,12 +51,11 @@ $("#contact").ready(function (){
                 "dataType" : "json",
                 "data" : {fullName, email, subject , message},
                 "success" : function(data){
-
-                        $(".alertDanger").hide() 
+                        $(".alertDanger").hide()
                       $(".alertSuccess").show()
                 } , 
                 "error" : function(error) {
-                     html += `<li class="text-center fw-bold"> Error  </li>`
+                     html += `<li class=" fw-bold"> Greška  </li>`
                      document.getElementById("errorMessage").innerHTML = html;
                       $(".alertDanger").show()
                       $(".alertSuccess").hide()
