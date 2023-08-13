@@ -60,11 +60,11 @@
         <nav id="navbar" class="navbar">
             <ul>
 
-                <li><a class="nav-link scrollto active" href="#hero">Početna</a></li>
-                <li><a class="nav-link scrollto" href="#about">O nama</a></li>
-                <li><a class="nav-link scrollto" href="#faq">Reference</a></li>
-                <li><a class="nav-link scrollto" href="#portfolio">Galerija</a></li>
-                <li><a class="nav-link scrollto" href="#contact">Kontakt</a></li>
+                <li><a class="nav-link scrollto active" id="pocetna" href="#hero">Početna</a></li>
+                <li><a class="nav-link scrollto"  id="onama"  href="#about">O nama</a></li>
+                <li><a class="nav-link scrollto"  id="reference"  href="#faq">Reference</a></li>
+                <li><a class="nav-link scrollto"  id="galerija"  href="#portfolio">Galerija</a></li>
+                <li><a class="nav-link scrollto"  id="kontakt"  href="#contact">Kontakt</a></li>
 
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
@@ -93,7 +93,7 @@
         <div class="container">
 
             <div class="section-title">
-                <h2>O Nama</h2>
+                <h2 id="onama">O Nama</h2>
             </div>
 
             <div class="row">
@@ -101,7 +101,7 @@
                     <img src="assets/img/onama.jpg" class="img-fluid w-100" alt="onama">
                 </div>
 
-                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1" id="text-onama">
                     <h3> DOBRODOŠLI NA STRANICU UNIKAT KAMENA! <br> <br>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</h3>
                     <br>
 
@@ -131,8 +131,8 @@
         <div class="container green-bg">
 
             <div class="text-center">
-                <h3>Miriam Beard</h3>
-                <p> „Putovanje kroz život je kao hodanje po kaldrmi - svaki kamen ima svoju priču, svaka neravnina nosi svoj izazov, ali svaki korak je deo neprocenjivog iskustva. ”</p>
+                <h3 class="citat">Miriam Beard</h3>
+                <p class="text-citat"> „Putovanje kroz život je kao hodanje po kaldrmi - svaki kamen ima svoju priču, svaka neravnina nosi svoj izazov, ali svaki korak je deo neprocenjivog iskustva. ”</p>
             </div>
 
         </div>
@@ -144,8 +144,8 @@
         <div class="container">
 
             <div class="section-title">
-                <h2>Reference</h2>
-                <p class="text-center">Naša referentna lista je svedočanstvo o našoj posvećenosti kvalitetu, preciznosti i iskustvu koje smo stekli tokom dugogodišnjeg rada , ovo su samo neke od lokacija.</p>
+                <h2 class="reference">Reference</h2>
+                <p class="text-center uvod-reference">Naša referentna lista je svedočanstvo o našoj posvećenosti kvalitetu, preciznosti i iskustvu koje smo stekli tokom dugogodišnjeg rada , ovo su samo neke od lokacija.</p>
             </div>
             <br><br>
 
@@ -297,11 +297,11 @@
 
 
     <!-- ======= Our Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="portfolio" class="portfolio galerija">
         <div class="container">
 
             <div class="section-title">
-                <h2>Galerija</h2>
+                <h2 id="galerija">Galerija</h2>
             </div>
 
             <div class="row">
@@ -317,8 +317,8 @@
             <div class="row portfolio-container">
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="assets/img/gallery/1.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                    <a href="assets/img/gallery/1.jpg"  data-gallery="portfolioGallery"
+                       class="portfolio-lightbox" title="slika1">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/1.jpg" class="img-fluid" alt="slika1">
 
@@ -328,7 +328,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/2.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika2">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/2.jpg" class="img-fluid" alt="slika2">
 
@@ -338,7 +338,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/3.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika3">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/3.jpg" class="img-fluid" alt="slika3">
 
@@ -348,7 +348,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/4.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika4">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/4.jpg" class="img-fluid" alt="slika4">
 
@@ -358,7 +358,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/5.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika5">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/5.jpg" class="img-fluid" alt="slika5">
 
@@ -369,7 +369,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/6.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika6">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/6.jpg" class="img-fluid" alt="slika6">
 
@@ -379,7 +379,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/7.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika7">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/7.jpg" class="img-fluid" alt="slika7">
 
@@ -389,7 +389,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/8.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika8">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/8.jpg" class="img-fluid" alt="slika8">
 
@@ -399,7 +399,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/9.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika9">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/9.jpg" class="img-fluid" alt="slika9">
 
@@ -409,7 +409,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/10.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika10">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/10.jpg" class="img-fluid" alt="slika10">
 
@@ -419,7 +419,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/11.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika11">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/11.jpg" class="img-fluid" alt="slika11">
 
@@ -430,7 +430,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/12.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika12">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/12.jpg" class="img-fluid" alt="slika12">
 
@@ -441,7 +441,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/13.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika13">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/13.jpg" class="img-fluid" alt="slika13">
 
@@ -451,7 +451,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/14.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika14">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/14.jpg" class="img-fluid" alt="slika14">
 
@@ -461,7 +461,7 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <a href="assets/img/gallery/15.jpg" data-gallery="portfolioGallery"
-                       class="portfolio-lightbox" title="">
+                       class="portfolio-lightbox" title="slika15">
                         <div class="portfolio-wrap">
                             <img src="assets/img/gallery/15.jpg" class="img-fluid" alt="slika15">
 
@@ -479,14 +479,14 @@
         <div class="container">
 
             <div class="section-title">
-                <h2>Kontakt </h2>
+                <h2 class="kontakt" id="kontakt">Kontakt </h2>
             </div>
 
             <div class="row">
 
                 <div class="col-lg-4 col-md-6">
                     <div class="contact-about">
-                        <h3>Unikat Kamen</h3>
+                        <h3 id="kamen-unikat" class="unikat-kamen">Unikat Kamen</h3>
                         <p>Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka.</p>
                         <div class="social-links">
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -497,19 +497,19 @@
 
                 <div class="col-lg-3 col-md-6">
                     <div class="info">
-                        <div>
+                        <div class="adresa">
 
 
                             <i class="bi bi-geo-alt"></i>
                             <p>26000<br>Banijska 49, Pančevo</p>
                         </div>
 
-                        <div>
+                        <div class="nas-email">
                             <i class="bi bi-envelope"></i>
                             <p>kamenunikat@gmail.com</p>
                         </div>
 
-                        <div>
+                        <div class="telefon">
                             <i class="bi bi-phone"></i>
                             <p>+381 631791053</p>
                         </div>
