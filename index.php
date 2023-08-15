@@ -1,4 +1,4 @@
-{<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="sr">
 
 <head>
@@ -24,9 +24,11 @@
 
 
     <!--    SEO OPTIMIZATION-->
+
     <title>Unikat Kamen | Gradimo zajedno </title>
     <meta name="keywords"
           content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
+
 
     <meta name="description"
           content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
@@ -45,6 +47,7 @@
     <meta name="language" content="Serbian">
     <meta name="copyright" content="Copyright © Unikat Kamen. Sva prava zadržana">
     <meta property="og:locale" content="sr"/>
+    <meta name="author" content="Vuk Zdravkovic">
 
 </head>
 <body>
