@@ -111,7 +111,7 @@
                     <br>
 
 
-                    Dok se izdvajamo svojim zanatskim veštinama, takođe smo osnaženi timskim duhom i posvećenošću ! <br>
+                    Dok se izdvajamo svojim zanatskim veštinama, Unikat Kamen je takodje osnažen timskim duhom i posvećenošću ! <br>
 
                     Naša priča počinje sa svakim kamenom koji pažljivo postavljamo, svakom pločom koju pažljivo
                     polažemo. Sa iskustvom koje se proteže preko dve decenije, postavili smo svoje ime kao sinonim za
