@@ -42,7 +42,7 @@ if (!preg_match($messageRegex, $message)) {
 
 if (!$error) {
 // Slanje e-pošte
-    $to = 'Belgrade.guide.office@gmail.com';
+    $to = 'kamenunikat@gmail.com';
     $subject = $subject;
     $message = $message;
     $headers = 'From: ' . $email . "\r\n" .
