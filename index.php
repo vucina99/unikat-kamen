@@ -2,6 +2,17 @@
 <html lang="sr">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NH0RK4P1VY"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-NH0RK4P1VY');
+    </script>
+    <meta name="google-site-verification" content="xznlhZUu-lSls-3bM2UVuvHDvvnLS3QwutZ8ud0Z480" />
+
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <!-- Favicons -->
@@ -27,11 +38,11 @@
 
     <title>Unikat Kamen | Gradimo zajedno </title>
     <meta name="keywords"
-          content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
+          content="Unikat Kamen, Unikat Kamen Beograd , Pančevo,  kaldrme , behaton ploče"/>
 
 
     <meta name="description"
-          content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
+          content="Sa više od 20 godina neprekidnog iskustva, Unikat Kamen ponosno se posvećuje umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
 
     <meta property="og:title" content="Unikat Kamen | Gradimo zajedno "/>
 
@@ -39,7 +50,7 @@
           content="Unikat Kamen, Unikat Kamen Pančevo , kaldrme , behaton ploče"/>
 
     <meta property="og:description"
-          content="Sa više od 20 godina neprekidnog iskustva, ponosno se posvećujemo umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
+          content="Sa više od 20 godina neprekidnog iskustva, Unikat Kamen ponosno se posvećuje umetnosti ugradnje granitne kocke ,  behaton ploča kao i   turske kaldrme  ivičnjaka"/>
 
     <meta property="og:url" content="https://unikat-kamen.com"/>
     <meta property="og:image" content="assets/img/logo_full_size.png"/>
@@ -507,8 +518,8 @@
                                     href="https://katastar.rgz.gov.rs/" title="katastar">Katastar </a></p>
 
                         <div class="social-links">
-                            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.facebook.com/" class="facebook"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.instagram.com/" class="instagram"><i class="bi bi-instagram"></i></a>
                         </div>
                     </div>
                 </div>
